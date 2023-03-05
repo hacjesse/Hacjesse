@@ -3,8 +3,7 @@
 - 🔭 Sou graduando em Sistemas para Internet
 - 🌱 Estou atualmente aprendendo Java e Python
 - 😄 Pronomes:ele/dele
-- ⚡ Fato interessante: O ketchup já foi vendido como remédio. O condimento foi prescrito e vendido para pessoas que sofriam de indigestão em 1834
-
+- ⚡ Fato interessante: A primeira foto do mundo levou oito horas para ser capturada
 <div align="center">
   <a href="https://github.com/Hacjesse">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hacjesse&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
