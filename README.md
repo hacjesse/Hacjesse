@@ -1,7 +1,7 @@
 ## Olá, Meu nome é Hacjesse Ferreira
 
 - 🔭 Sou graduando em Sistemas para Internet
-- 🌱 Estou atualmente aprendendo Java e Python
+- 🌱 Estou atualmente aprendendo Desenvolvimento Web e Python
 - 😄 Pronomes:ele/dele
 - ⚡ Fato interessante: A primeira foto do mundo levou oito horas para ser capturada
 <div align="center">
