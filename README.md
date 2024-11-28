@@ -2,7 +2,6 @@
 
 - 🔭 Sou graduado em Sistemas para Internet
 - 🌱 Estou atualmente aprendendo Desenvolvimento Web e Python
-- 😄 Pronomes:ele/dele
 - ⚡ Fato interessante: A primeira foto do mundo levou oito horas para ser capturada
 <div align="center">
   <a href="https://github.com/Hacjesse">
